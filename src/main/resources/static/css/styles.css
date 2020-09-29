@@ -24,3 +24,22 @@ table {
             padding: 10px;
             text-align: center;
 }
+
+.square-red{
+float: left;
+height: 50px;
+width: 50px;
+background-color: red;}
+
+
+.square-blue{
+float: left;
+height: 50px;
+width: 50px;
+background-color: blue;}
+
+.square-green{
+float: left;
+height: 50px;
+width: 50px;
+background-color: green;}
